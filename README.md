@@ -1,2 +1,2 @@
 # javascript
-Tutorial
+Code Repo for Javascript
